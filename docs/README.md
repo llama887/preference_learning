@@ -27,7 +27,6 @@ The idea is to show a gorup of driving agents to humans and let them select whic
 # Planned Deliverables
 Here is a list of all possible deliveriables:
 - rendering tutorial for nocturne and gpudrive
-- entity component model toy example
 - PPO and reinforcement learning toy example
 - preference learning toy example
 - agent training tutorial on the HPC*
@@ -35,4 +34,4 @@ Here is a list of all possible deliveriables:
 
 Due to the extended time span of this project, I am unsure of when the actual preference learning code will be deliverable. All of the toy example projects will serve as examples of the core concepts of this project to act as tutorials if the actual code ends up being delayed. I will very likely not be making every single one of them as that is a lot and I rather spend time contributing to the core project, not toy examples. If the professor has a particular preference for a toy example, I will focus more on that. 
 
-*Agent training on the HPC may not be possible as it depends if I get an opportunity to train agents. Currently our lab has been strugglign to access the HPC at all (I will jokingly blame professor for stealing all of the GPUs for the course project). The allocation for the course project is not sufficient to train agents (we usually use 24 GPUs for an entire day)
+*Agent training on the HPC may not be possible as it depends if I get an opportunity to train agents. Currently our lab has been struggling to access the HPC at all (I will jokingly blame professor for stealing all of the GPUs for the course project). The allocation for the course project is not sufficient to train agents (we usually use 24 GPUs for an entire day)
