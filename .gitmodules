@@ -1,0 +1,3 @@
+[submodule "docs/simulations/ai-car-preference-learning"]
+	path = docs/simulations/ai-car-preference-learning
+	url = https://github.com/llama887/ai-car-preference-learning.git
