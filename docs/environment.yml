@@ -166,4 +166,5 @@ dependencies:
   - zstd=1.5.5=hd43e919_0
   - pip:
       - neat-python==0.92
+      - pygame==2.5.2
 prefix: C:\Users\mailf\anaconda3\envs\preference_learning
